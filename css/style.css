@@ -1,0 +1,23 @@
+* {box-sizing: border-box;}
+
+
+.header {
+    margin: 0;
+    padding: 0;
+}
+
+.footer-div {
+    padding-top: 90px;
+    /* border: 2px solid black; */
+}
+
+.ul-div {
+    padding: 60px 0 0 70px;
+}
+
+.footer-icon {
+    margin-top: 230px;
+    padding-left: -20px;
+    width: 40px;
+    height: 40px;
+}
